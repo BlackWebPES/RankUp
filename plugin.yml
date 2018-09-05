@@ -11,10 +11,10 @@ permissions:
   children:
     rankup.rankup:
       default: true
-      description: Allow ranking up
+      description:
     rankup.admin:
       default: op
-      description: Manage RankUp and view statistics
+      description:
     rankup.groups:
       default: false
-      description: Do NOT set this. It is used for group managment.
+      description:
